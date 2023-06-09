@@ -9,13 +9,7 @@ Nim     : 312110109
 ## output
 
 ```bash
-Output CRUD pada Praktikum 9 - Codeigniter seperti berikut ini:
+Output CRUD pada Praktikum 9 - Codeigniter 
 ```
-
-### Menu Login
-
-1. Login
-
-![login](images/login.png)
 
 
